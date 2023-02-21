@@ -71,10 +71,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Quick
+                    Quick and Simple
                     </h4>
                   <p className="m-0 text-sm">
-                    Anywhere, anytime, almost instant payments
+                    Quick, simple to use, global
                     </p>
                 </div>
               </div>
@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Low-cost Fees
                     </h4>
                   <p className="m-0 text-sm">
-                     Low fees due to the innovation we use
+                     No intermediaries, direct payments
                     </p>
                 </div>
               </div>
@@ -115,10 +115,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Simple to Use
-                    </h4>
+                    Referral Payments
+	         </h4>
                   <p className="m-0 text-sm">
-                    No intermediaries, direct payments
+                   Refer friends and family members 
                     </p>
                 </div>
               </div>
@@ -137,10 +137,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    No Credit Checks
+                    Whitelist Accounts
                     </h4>
                   <p className="m-0 text-sm">
-                   Anyone can use ViPay
+                   Control whom you pay
                     </p>
                 </div>
               </div>
@@ -162,7 +162,7 @@ const FeaturesTiles = ({
                     No Bank Account Needed
                     </h4>
                   <p className="m-0 text-sm">
-                    For the unbanked
+                    For the unbanked, no credit checks
                     </p>
                 </div>
               </div>
